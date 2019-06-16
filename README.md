@@ -2,6 +2,8 @@
 Homebrew tap with formulae
 
 #### Add this tap
-`brew tap nejckorasa/tap`
+```
+$ brew tap nejckorasa/tap
+```
 
 #### Install
