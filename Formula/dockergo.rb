@@ -8,3 +8,4 @@ class Dockergo < Formula
   def install
     bin.install "dockergo"
   end
+end
