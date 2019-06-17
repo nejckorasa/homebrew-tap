@@ -1,5 +1,5 @@
 # homebrew-tap
-Homebrew tap with formulae
+[Homebrew](https://brew.sh/) tap with formulae
 
 ## Tools
 
