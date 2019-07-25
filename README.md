@@ -11,6 +11,14 @@
 $ brew install nejckorasa/tap/dockergo
 ```
 
+#### [Fngprint](https://github.com/nejckorasa/dir-fingerprint) 
+
+  Application to create and store directory fingerprint from all its files in a tree
+  
+```
+$ brew install nejckorasa/tap/fngprint
+```
+
 ## Tap
 
 ```
