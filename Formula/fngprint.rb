@@ -14,6 +14,6 @@ class Fngprint < Formula
   end
 
   def install
-    bin.install "fngprint"
+    bin.install "dir-fingerprint"
   end
 end
