@@ -2,15 +2,15 @@
 class Fngprint < Formula
   desc "Application to create and store directory fingerprint from all its files in a tree"
   homepage "https://github.com/nejckorasa/dir-fingerprint/"
-  version "0.2.0"
+  version "0.2.3"
   bottle :unneeded
 
   if OS.mac?
-    url "https://github.com/nejckorasa/dir-fingerprint/releases/download/v0.2.0/dir-fingerprint_0.2.0_Darwin_x86_64.tar.gz"
-    sha256 "448e49647b2f889ab12f345df418d808723207d3d6d5bd7f4d06ea89020303f3"
+    url "https://github.com/nejckorasa/dir-fingerprint/releases/download/v0.2.3/dir-fingerprint_0.2.3_Darwin_x86_64.tar.gz"
+    sha256 "d9456e8e063779831ce3bae5d622430a47d879cbd25955f6489cca5fdb4d3902"
   elsif OS.linux?
-    url "https://github.com/nejckorasa/dir-fingerprint/releases/download/v0.2.0/dir-fingerprint_0.2.0_Linux_x86_64.tar.gz"
-    sha256 "71e8e192cd122a07f18111288d71a172269ce275ab8417d2842c644845866b5b"
+    url "https://github.com/nejckorasa/dir-fingerprint/releases/download/v0.2.3/dir-fingerprint_0.2.3_Linux_x86_64.tar.gz"
+    sha256 "4d91549bcc6d48ef574e0cf6e1e891249f2fdf26672db1a5e910fb5212fd7cee"
   end
 
   def install
