@@ -3,12 +3,12 @@
 
 ## Tools
 
-#### [dockergo](https://github.com/nejckorasa/mac-docker-go) 
+#### [dckr](https://github.com/nejckorasa/mac-docker-go) 
 
   Make your life easier starting/restarting/killing Docker daemon on MacOS
   
 ```
-$ brew install nejckorasa/tap/dockergo
+$ brew install nejckorasa/tap/dckr
 ```
 
 #### [dir-fingerprint](https://github.com/nejckorasa/dir-fingerprint) 
