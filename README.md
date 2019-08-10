@@ -19,8 +19,16 @@ $ brew install nejckorasa/tap/dckr
 $ brew install nejckorasa/tap/dir-fingerprint
 ```
 
-## Tap
+## Install with tap
+
+Tap this repo and add it to the list of your tracked formulae with:
 
 ```
 $ brew tap nejckorasa/tap
+```
+
+Then you can install using tool names directly, as in:
+
+```
+$ brew install dckr
 ```
