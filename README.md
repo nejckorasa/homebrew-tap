@@ -27,7 +27,7 @@ Tap this repo and add it to the list of your tracked formulae with:
 $ brew tap nejckorasa/tap
 ```
 
-Then you can install using tool names directly, as in:
+Then you can install formulae directly, as in:
 
 ```console
 $ brew install dckr
